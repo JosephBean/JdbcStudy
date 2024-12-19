@@ -1,0 +1,6 @@
+### Java Code ###
+bin/
+lib/
+
+### VS Code ###
+.vscode/
